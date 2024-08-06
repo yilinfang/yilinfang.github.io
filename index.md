@@ -18,6 +18,5 @@ The best way to reach me is via email at **fang DOT 1007 AT osu DOT edu**.
 
 ## Links
 * [Google Scholar](https://scholar.google.com/citations?user=z1_95MoAAAAJ)
-* [GitHub](https://github.com/yilinfang)
 * [LinkedIn](https://www.linkedin.com/in/yilin-fang-2ba163202/)
 * [Feed](feed.xml)
