@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am Yilin Fang, a first-year Ph.D. student in the [Department of Computer Science and Engineering (CSE)](https://cse.osu.edu/) at [The Ohio State University (OSU)](https://osu.edu/), where I am a member of [W3CIL Lab](https://carteryagemann.com/pages/w3cil-lab.html) under the supervision of [Dr. Carter Yagemann](https://carteryagemann.com/). My research focuses on the intersection of **computer security** and **machine learning**, particularly in **automated vulnerability discovery**, **analysis** and **prevention**.
+I am **Yilin Fang**, a first-year Ph.D. student in the [Department of Computer Science and Engineering (CSE)](https://cse.osu.edu/) at [The Ohio State University (OSU)](https://osu.edu/), where I am a member of [W3CIL Lab](https://carteryagemann.com/pages/w3cil-lab.html) under the supervision of [Dr. Carter Yagemann](https://carteryagemann.com/). My research focuses on the intersection of **computer security** and **machine learning**, particularly in **automated vulnerability discovery**, **analysis** and **prevention**.
 
 Prior to joining OSU, I earned my Master's degree in Cyberspace Security from the [School of Cyber Science and Engineering](http://cse.hust.edu.cn/) at [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/) in 2023, under the guidance of [Dr. Bin Yuan](http://faculty.hust.edu.cn/yuanbin12/en/index.htm). During my master's program, it was my great fortune to work with [Dr. Yueming Wu](https://wu-yueming.github.io/) on source-code-level vulnerability discovery and clone detection. I also completed my Bachelor's degree in Information Security at HUST in 2020.
 
