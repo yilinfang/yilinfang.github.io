@@ -1,0 +1,25 @@
+title: Yilin Fang
+logo: "/assets/img/logo.png"
+description: >- # this means to ignore newlines until "baseurl:"
+  CSE PhD student at The Ohio State University with interests in software and system security.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://yilinfang.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-sitemap
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
