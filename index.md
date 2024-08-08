@@ -12,12 +12,12 @@ The best way to reach me is via email at **fang DOT 1007 AT osu DOT edu**.
 
 ## Publications
 
-* Yutao Hu, **Yilin Fang**, Yifan Sun, Yaru Jia, Yueming Wu, Deqing Zou, Hai Jin. "**Code2Img: Tree-based Image Transformation for Scalable Code Clone Detection**". Published in *IEEE Transactions on Software Engineering (**IEEE TSE**)*, vol. 49(9), pp. 4429-4442, 2023. [[DOI](https://doi.org/10.1109/TSE.2023.3295801)] [[bibtex](assets/papers/2023-TSE-hu2023code2img.txt)] [[code](https://github.com/tao7777/code2img)]
-* Tiancheng Hu\*, Zijing Xu\*, **Yilin Fang**, Yueming Wu, Bin Yuan, Deqing Zou, Hai Jin *(\* indicates under my mentorship)*. "**Fine-grained Code Clone Detection with Block-based Splitting of Abstract Syntax Tree**". Appeared in *Proceedings of the 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis (**ISSTA 2023**)*, Seattle, WA, USA, July 17-21, 2023. [[DOI](https://doi.org/10.1145/3597926.3598040)] [[bibtex](assets/papers/2023-ISSTA-hu2023fine.txt)]
-* Bin Yuan, Yifan Lu, **Yilin Fang**, Yueming Wu, Deqing Zou, Zhen Li, Zhi Li, Hai Jin. "**Enhancing Deep Learning-based Vulnerability Detection by Building Behavior Graph Model**". Appeared in *Proceedings of the 45th IEEE/ACM International Conference on Software Engineering (**ICSE 2023**)*, Melbourne, Australia, May 14-20, 2023. [[DOI](https://doi.org/10.1109/ICSE48619.2023.00190)] [[bibtex](assets/papers/2023-ICSE-yuan2023enhancing.txt)]
+- Yutao Hu, **Yilin Fang**, Yifan Sun, Yaru Jia, Yueming Wu, Deqing Zou, Hai Jin. "**Code2Img: Tree-based Image Transformation for Scalable Code Clone Detection**". Published in *IEEE Transactions on Software Engineering (**TSE**)*, vol. 49(9), pp. 4429-4442, 2023. [[DOI](https://doi.org/10.1109/TSE.2023.3295801)] [[bibtex](assets/papers/2023-TSE-hu2023code2img.txt)] [[code](https://github.com/tao7777/code2img)]
+- Tiancheng Hu\*, Zijing Xu\*, **Yilin Fang**, Yueming Wu, Bin Yuan, Deqing Zou, Hai Jin *(\* indicates under my mentorship)*. "**Fine-grained Code Clone Detection with Block-based Splitting of Abstract Syntax Tree**". Appeared in *Proceedings of the 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis (**ISSTA 2023**)*, Seattle, WA, USA, July 17-21, 2023. [[DOI](https://doi.org/10.1145/3597926.3598040)] [[bibtex](assets/papers/2023-ISSTA-hu2023fine.txt)]
+- Bin Yuan, Yifan Lu, **Yilin Fang**, Yueming Wu, Deqing Zou, Zhen Li, Zhi Li, Hai Jin. "**Enhancing Deep Learning-based Vulnerability Detection by Building Behavior Graph Model**". Appeared in *Proceedings of the 45th IEEE/ACM International Conference on Software Engineering (**ICSE 2023**)*, Melbourne, Australia, May 14-20, 2023. [[DOI](https://doi.org/10.1109/ICSE48619.2023.00190)] [[bibtex](assets/papers/2023-ICSE-yuan2023enhancing.txt)]
 
 ## Links
 
-* [Google Scholar](https://scholar.google.com/citations?user=z1_95MoAAAAJ)
-* [LinkedIn](https://www.linkedin.com/in/yilin-fang-2ba163202/)
-* [Feed](feed.xml)
+- [Google Scholar](https://scholar.google.com/citations?user=z1_95MoAAAAJ)
+- [LinkedIn](https://www.linkedin.com/in/yilin-fang-2ba163202/)
+- [Feed](feed.xml)
