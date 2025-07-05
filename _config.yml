@@ -48,9 +48,9 @@ repo_trophies:
 navbar_fixed: true
 footer_fixed: true
 search_enabled: true
-socials_in_search: true
+socials_in_search: false
 posts_in_search: true
-bib_search: true
+bib_search: false
 
 # Dimensions
 max_width: 930px
@@ -85,8 +85,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Yilin's Blog # blog_name will be displayed in your blog page
-blog_description: # a simple whitespace theme for academics
+blog_name: Yilin's Log # blog_name will be displayed in your blog page
+blog_description: Thoughts, experiences, and lessons—logged along the way. # a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -236,6 +236,7 @@ exclude:
   - _news/announcement_2.md
   - _news/announcement_3.md
   - _pages/books.md
+  - _books/
   - _pages/publications.md
   - _data/coauthors.yml
   - _data/venues.yml

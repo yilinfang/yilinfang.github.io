@@ -7,10 +7,10 @@ profile:
   align: right
   image: portrait.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>439 Baker System Engineering</p>
-    <p>1971 Neil Avenue</p>
-    <p>Columbus, OH 43210</p>
+  more_info: # >
+    # <p>439 Baker Systems Engineering</p>
+    # <p>1971 Neil Avenue</p>
+    # <p>Columbus, OH 43210</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
