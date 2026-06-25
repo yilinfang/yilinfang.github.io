@@ -24,6 +24,6 @@ My current research focuses on the intersection of **computer security** and **m
 ## Teaching
 
 - The Ohio State University
-  - Spring 2026: CSE5236 Mobile Application Development (Spring 2026), Graduate Teaching Associate
+  - Spring 2026: CSE5236 Mobile Application Development, Graduate Teaching Associate
   - Autumn 2025: ECE5561/CSE5471 Introduction to Cybersecurity, Graduate Teaching Associate
   - Spring 2025: ECE5561/CSE5471 Introduction to Cybersecurity, Graduate Teaching Associate
