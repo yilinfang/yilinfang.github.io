@@ -57,6 +57,13 @@ weight = 10
 # newtab = true
 
 [[menu.main]]
+name = "Blog"
+url = "https://f10f10.notion.site/38aa4828282f80b4a8f9f73974d217d6?v=38aa4828282f80818187000c9cabd43b&source=copy_link"
+weight = 20
+[menu.main.params]
+newtab = true
+
+[[menu.main]]
 name = "Contact"
 url = "/contact/"
 weight = 30
