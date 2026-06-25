@@ -9,10 +9,10 @@ disableKinds = ["taxonomy", "term"]
 # Goldmark: pass raw HTML in markdown through (kramdown parity). Demo content is
 # author-controlled, so this is safe. Theme consumers who keep this false should
 # use the {{< profile-picture >}} shortcode for the profile image.
-[markup]
-[markup.goldmark]
-[markup.goldmark.renderer]
-unsafe = true
+# [markup]
+# [markup.goldmark]
+# [markup.goldmark.renderer]
+# unsafe = true
 # Light, minimal Chroma highlighting style so fenced code blocks match the theme's
 # light palette. Hugo's default is the dark "monokai", which clashes with the
 # white background; consumers can pick any light style (github, friendly, pastie, …).
