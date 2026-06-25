@@ -1,0 +1,8 @@
+# Hugo
+public/
+resources/
+node_modules/
+.hugo_build.lock
+
+# OS generated files
+.DS_Store
