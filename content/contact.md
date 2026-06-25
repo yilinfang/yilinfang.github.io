@@ -3,7 +3,13 @@ title: "Contact"
 is_contact: true
 ---
 
-The best way to contact me is via email at `fang [DOT] 1007 [AT] osu [DOT] edu`.
+The best way to contact me is via email:
+
+```sh
+$ echo 'Wm1GdVp5NHhNREEzUUc5emRTNWxaSFU9' | base64 -d | base64 -d
+```
+
+---
 
 ## Social
 
