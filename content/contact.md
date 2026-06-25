@@ -3,7 +3,7 @@ title: "Contact"
 is_contact: true
 ---
 
-- Email: `fang [DOT] 1007 [AT] osu [DOT] edu`
+The best way to contact me is via email at `fang [DOT] 1007 [AT] osu [DOT] edu`.
 
 ## Social
 
