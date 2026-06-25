@@ -8,5 +8,5 @@ The best way to contact me is via <a href="javascript:(()=>{const e='5B9A95D0B6E
 ## Social
 
 1. [GitHub](https://github.com/yilinfang)
-2. [Google Scholar](https://www.linkedin.com/in/yilin-fang-2ba163202)
-3. [LinedIn](https://scholar.google.com/citations?user=z1_95MoAAAAJ)
+2. [Google Scholar](https://scholar.google.com/citations?user=z1_95MoAAAAJ)
+3. [LinkedIn](https://www.linkedin.com/in/yilin-fang-2ba163202)
