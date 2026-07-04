@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yilin Fang</title><link>https://yilinfang.top/</link><description>Recent content on Yilin Fang</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://yilinfang.top/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>https://yilinfang.top/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://yilinfang.top/contact/</guid><description>&lt;p&gt;The best way to contact me is via email:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="background-color:#f7f7f7;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-sh" data-lang="sh"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;$ &lt;span style="color:#6639ba"&gt;echo&lt;/span&gt; &lt;span style="color:#0a3069"&gt;&amp;#39;Wm1GdVp5NHhNREEzUUc5emRTNWxaSFU9&amp;#39;&lt;/span&gt; &lt;span style="color:#1f2328"&gt;|&lt;/span&gt; base64 -d &lt;span style="color:#1f2328"&gt;|&lt;/span&gt; base64 -d
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;fang [dot] 1007 [at] osu [dot] edu
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;If you feel necessary, my PGP key is:&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEakkm9RYJKwYBBAHaRw8BAQdAWe2vErr0pPl2mpJGz4od7gJWodGkAOntsGNt
+Le+sxuO0HllpbGluIEZhbmcgPGZhbmcuMTAwN0Bvc3UuZWR1PoivBBMWCgBXFiEE
+Z3g9fV9SqsIXG+CmZfBUYeEa6gUFAmpJJvUbFIAAAAAABAAObWFudTIsMi41KzEu
+MTIsMCwzAhsDBQsJCAcCAiICBhUKCQgLAgQWAgMBAh4HAheAAAoJEGXwVGHhGuoF
+UrwA/3ondlYbUEpqyb8I7grkDFjlo9NrqBxZT60giK5dh7ilAP9oLHf3M24OcjTj
+pybuh+bfTh3obYXPmX78HICS2JCbB7g4BGpJJvUSCisGAQQBl1UBBQEBB0BHl9TI
+JvtIg5t7kk5pEwgnraBpj7DoNxWCeSNArtdEEAMBCAeIlAQYFgoAPBYhBGd4PX1f
+UqrCFxvgpmXwVGHhGuoFBQJqSSb1GxSAAAAAAAQADm1hbnUyLDIuNSsxLjEyLDAs
+MwIbDAAKCRBl8FRh4RrqBRBjAPoDHSukggUenCKzczxMY4SElf5/o1KbDtjZTs0S
+Ms/KiQEA5nYVgG7jLGzkzcoY6bZ1FMEu0/Uw2MGXUGmsITp4RAw=
+=L/I2
+-----END PGP PUBLIC KEY BLOCK-----
+&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
 &lt;h2 id="social"&gt;Social&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a href="https://github.com/yilinfang"&gt;GitHub&lt;/a&gt;&lt;/li&gt;
