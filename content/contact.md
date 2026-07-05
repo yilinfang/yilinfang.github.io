@@ -9,7 +9,7 @@ The best way to contact me is via email:
 fang [dot] 1007 [at] osu [dot] edu
 ```
 
-If you feel necessary, my PGP key is:
+If necessary, my PGP key is:
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
