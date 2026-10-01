@@ -1,9 +1,14 @@
 /* Based on the Researcher theme (https://github.com/ankitsultana/researcher). */
+/* Requires modern-normalize.css to load first (box-sizing, body margin, tab-size). */
 
+html {
+  /* Undo normalize: let iOS adjust text size after orientation changes. */
+  -webkit-text-size-adjust: auto;
+}
 body {
-  margin: 0;
   font-family: "MonoLisaCode", monospace;
   font-size: 14px;
+  line-height: 1.6;
 }
 a {
   text-decoration: none;
@@ -38,6 +43,10 @@ a:hover {
 /* Content */
 
 .content h1,
+.content h2 {
+  line-height: 1.25;
+}
+.content h1,
 .content nav {
   text-align: center;
 }
@@ -63,7 +72,6 @@ a:hover {
   margin: 5px 0;
 }
 .content pre {
-  box-sizing: border-box;
   width: 100%;
   max-width: 100%;
   margin: 16px 0;
@@ -76,7 +84,6 @@ a:hover {
   font-family: inherit;
   font-size: 0.95em;
   line-height: 1.45;
-  tab-size: 4;
   -webkit-text-size-adjust: 100%;
 }
 .content pre code {
@@ -90,4 +97,7 @@ a:hover {
   border-top: 1px solid rgba(0, 0, 0, 0.1);
   color: #666;
   text-align: center;
+}
+.footer small {
+  font-size: smaller;
 }
